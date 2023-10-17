@@ -6,7 +6,7 @@
 /* Change this to 500, 1000, 2000, 6000, or 9000 for the different lists*/
 #define N 500
 
-int LinSearch(int array[], int x);
+int LinSearch(int array[], int x, int n);
 int BinSearch(int array[], int x);
 
 int main(void){
@@ -16,7 +16,7 @@ int main(void){
     int array[N];
     int k;
     /*change this for more or less runs of the algorithm*/
-    int runs = pow(10,6);
+    int runs = 1;
     int i;
 
     sprintf(filename, "List%d.txt", N);
@@ -52,7 +52,7 @@ int main(void){
     startTime = clock();
 
     for (i = 0; i < runs; i++){
-        LinSearch(array, x);
+        LinSearch(array, x, N);
     }
 
     /* stop time and print */
@@ -61,7 +61,7 @@ int main(void){
     printf("LinSearch needed: %.7fs\n", duration);
 
     /* Prints the result */
-    int result=LinSearch(array, x);
+    int result=LinSearch(array, x, N);
     if (result == 0){
         printf("LinSearch: %d is not in the list \n",x);
     }
@@ -80,18 +80,13 @@ int main(void){
     return 0;
 }
 
-int LinSearch(int array[], int x){
-    int i=0;
+int LinSearch(int array[], int x, int n){
+
+    int i=n-1;
     /* Fill in your code HERE! */
-    for (i = 0; i < N; i++)
-    {
-        if (array[i] == x)
-        {
-            return i;
-        }
+    while (i >= 0 | x != array[i]) {
+        i--;
     }
-
-
 
     return i;
 }
