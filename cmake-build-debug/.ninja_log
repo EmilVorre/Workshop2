@@ -1,3 +1,5 @@
 # ninja log v5
 0	165	7192508167571230	CMakeFiles/Workshop2.dir/src/main.c.obj	6cba843ab59b265f
 167	292	7192508168789132	Workshop2.exe	a6a7df779660968d
+3	93	7192510238624372	CMakeFiles/Workshop2.dir/src/main.c.obj	6cba843ab59b265f
+94	192	7192510239560375	Workshop2.exe	a6a7df779660968d

@@ -114,7 +114,7 @@ int BinSearch(int array[], int x){
     // search function
     int i=0, j=N-1, mid;
     /* Fill in your code HERE */
-    while (i > j) {
+    while (i < j) {
         mid = (i + j) / 2;
         if (array[mid] > x) {
             j = mid - 1;
@@ -122,6 +122,9 @@ int BinSearch(int array[], int x){
             i = mid + 1;
         }
     }
-
-    return i;
+    if (array[i] != x) {
+        return i;
+    } else {
+        return -1;
+    }
 }
