@@ -97,6 +97,21 @@ int LinSearch(int array[], int x){
 }
 
 int BinSearch(int array[], int x){
+    //sort the array
+    //sort the array using bubble sort
+    int a, b, temp;
+    for (a = 0; a < N; a++) {
+        for (b = 0; b < N - 1; b++) {
+            if (array[b] > array[b + 1]) {
+                //swap
+                temp = array[b];
+                array[b] = array[b + 1];
+                array[b + 1] = temp;
+            }
+        }
+    }
+
+    // search function
     int i=0, j=N-1, mid;
     /* Fill in your code HERE */
     while (i > j) {
