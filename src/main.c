@@ -4,7 +4,7 @@
 #include <time.h>
 
 /* Change this to 500, 1000, 2000, 6000, or 9000 for the different lists*/
-#define N 500
+#define N 9000
 
 int LinSearch(int array[], int x, int n);
 int BinSearch(int array[], int x);
@@ -16,7 +16,7 @@ int main(void){
     int array[N];
     int k;
     /*change this for more or less runs of the algorithm*/
-    int runs = 1;
+    int runs = 100;
     int i;
 
     sprintf(filename, "List%d.txt", N);
@@ -50,11 +50,9 @@ int main(void){
 
     /* start time */
     startTime = clock();
-
     for (i = 0; i < runs; i++){
         LinSearch(array, x, N);
     }
-
     /* stop time and print */
     endTime = clock();
     duration = (endTime - startTime) / CLOCKS_PER_SEC;
@@ -62,7 +60,7 @@ int main(void){
 
     /* Prints the result */
     int result=LinSearch(array, x, N);
-    if (result == 0){
+    if (result == -1){
         printf("LinSearch: %d is not in the list \n",x);
     }
     else {
@@ -70,7 +68,7 @@ int main(void){
     }
 
     result=BinSearch(array, x);
-    if (result == 0){
+    if (result == -1){
         printf("BinSearch: %d is not in the list \n",x);
     }
     else {
@@ -84,11 +82,15 @@ int LinSearch(int array[], int x, int n){
 
     int i=n-1;
     /* Fill in your code HERE! */
-    while (i >= 0 | x != array[i]) {
+    while (i > 0 && x != array[i]) {
         i--;
     }
 
-    return i;
+    if (array[i] == x) {
+        return i;
+    } else {
+        return -1;
+    }
 }
 
 int BinSearch(int array[], int x){
@@ -111,13 +113,13 @@ int BinSearch(int array[], int x){
     /* Fill in your code HERE */
     while (i < j) {
         mid = (i + j) / 2;
-        if (array[mid] > x) {
-            j = mid - 1;
+        if (array[mid] >= x) {
+            j = mid;
         } else {
             i = mid + 1;
         }
     }
-    if (array[i] != x) {
+    if (array[i] == x) {
         return i;
     } else {
         return -1;
