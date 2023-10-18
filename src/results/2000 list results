@@ -1,0 +1,107 @@
+What number are we searching for?
+1
+The size of the list is 2000
+BinSearch needed: 0.0140000s
+LinSearch needed: 0.8300000s
+LinSearch: 1 is in position 1
+BinSearch: 1 is in position 1
+Done!
+
+What number are we searching for?
+9718
+The size of the list is 2000
+BinSearch needed: 0.0130000s
+LinSearch needed: 0.0010000s
+LinSearch: 9718 is in position 2000
+BinSearch: 9718 is in position 2000
+Done!
+
+What number are we searching for?
+3870
+The size of the list is 2000
+BinSearch needed: 0.0170000s
+LinSearch needed: 0.0460000s
+LinSearch: 3870 is in position 1904
+BinSearch: 3870 is in position 1904
+Done!
+
+What number are we searching for?
+3610
+The size of the list is 2000
+BinSearch needed: 0.0210000s
+LinSearch needed: 0.0990000s
+LinSearch: 3610 is in position 1778
+BinSearch: 3610 is in position 1778
+Done!
+
+What number are we searching for?
+3172
+The size of the list is 2000
+BinSearch needed: 0.0160000s
+LinSearch needed: 0.1860000s
+LinSearch: 3172 is in position 1560
+BinSearch: 3172 is in position 1560
+Done!
+
+What number are we searching for?
+2730
+The size of the list is 2000
+BinSearch needed: 0.0200000s
+LinSearch needed: 0.2780000s
+LinSearch: 2730 is in position 1340
+BinSearch: 2730 is in position 1340
+Done!
+
+What number are we searching for?
+2282
+The size of the list is 2000
+BinSearch needed: 0.0160000s
+LinSearch needed: 0.3680000s
+LinSearch: 2282 is in position 1116
+BinSearch: 2282 is in position 1116
+Done!
+
+What number are we searching for?
+1877
+The size of the list is 2000
+BinSearch needed: 0.0170000s
+LinSearch needed: 0.4620000s
+LinSearch: 1877 is in position 922
+BinSearch: 1877 is in position 922
+Done!
+
+What number are we searching for?
+1373
+The size of the list is 2000
+BinSearch needed: 0.0210000s
+LinSearch needed: 0.5610000s
+LinSearch: 1373 is in position 671
+BinSearch: 1373 is in position 671
+Done!
+
+What number are we searching for?
+1005
+The size of the list is 2000
+BinSearch needed: 0.0160000s
+LinSearch needed: 0.6310000s
+LinSearch: 1005 is in position 487
+BinSearch: 1005 is in position 487
+Done!
+
+What number are we searching for?
+555
+The size of the list is 2000
+BinSearch needed: 0.0170000s
+LinSearch needed: 0.7220000s
+LinSearch: 555 is in position 267
+BinSearch: 555 is in position 267
+Done!
+
+What number are we searching for?
+257
+The size of the list is 2000
+BinSearch needed: 0.0180000s
+LinSearch needed: 0.7880000s
+LinSearch: 257 is in position 118
+BinSearch: 257 is in position 118
+Done!

@@ -16,7 +16,7 @@ int main(void){
     int array[N];
     int k;
     /*change this for more or less runs of the algorithm*/
-    int runs = 100;
+    int runs = pow(10, 6);
     int i;
 
     sprintf(filename, "List%d.txt", N);
@@ -96,7 +96,7 @@ int LinSearch(int array[], int x, int n){
 int BinSearch(int array[], int x){
     //sort the array
     //sort the array using bubble sort
-    int a, b, temp;
+    /*int a, b, temp;
     for (a = 0; a < N; a++) {
         for (b = 0; b < N - 1; b++) {
             if (array[b] > array[b + 1]) {
@@ -106,7 +106,7 @@ int BinSearch(int array[], int x){
                 array[b + 1] = temp;
             }
         }
-    }
+    }*/
 
     // search function
     int i=0, j=N-1, mid;

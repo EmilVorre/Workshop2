@@ -1,3 +1,3 @@
-C:/Users/benth/OneDrive/Dokumenter/GitHub/Workshop2/cmake-build-debug/CMakeFiles/Workshop2.dir
-C:/Users/benth/OneDrive/Dokumenter/GitHub/Workshop2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/benth/OneDrive/Dokumenter/GitHub/Workshop2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+R:/ClionProjects/Workshop2/cmake-build-debug/CMakeFiles/Workshop2.dir
+R:/ClionProjects/Workshop2/cmake-build-debug/CMakeFiles/edit_cache.dir
+R:/ClionProjects/Workshop2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

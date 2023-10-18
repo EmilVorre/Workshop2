@@ -1,0 +1,89 @@
+What number are we searching for?
+0
+The size of the list is 500
+BinSearch needed: 0.0100000s
+LinSearch needed: 0.2140000s
+LinSearch: 0 is in position 1
+BinSearch: 0 is in position 1
+Done!
+
+What number are we searching for?
+9980
+The size of the list is 500
+BinSearch needed: 0.0160000s
+LinSearch needed: 0.0020000s
+LinSearch: 9980 is in position 500
+BinSearch: 9980 is in position 500
+Done!
+
+What number are we searching for?
+7
+The size of the list is 500
+BinSearch needed: 0.0110000s
+LinSearch needed: 0.2090000s
+LinSearch: 7 is in position 3
+BinSearch: 7 is in position 3
+Done!
+
+What number are we searching for?
+3000
+The size of the list is 500
+BinSearch needed: 0.0130000s
+LinSearch needed: 0.1470000s
+LinSearch: 3000 is in position 158
+BinSearch: 3000 is in position 158
+Done!
+
+What number are we searching for?
+6300
+The size of the list is 500
+BinSearch needed: 0.0150000s
+LinSearch needed: 0.0820000s
+LinSearch: 6300 is in position 316
+BinSearch: 6300 is in position 316
+Done!
+
+What number are we searching for?
+8500
+The size of the list is 500
+BinSearch needed: 0.0150000s
+LinSearch needed: 0.0390000s
+LinSearch: 8500 is in position 423
+BinSearch: 8500 is in position 423
+Done!
+
+What number are we searching for?
+1440
+The size of the list is 500
+BinSearch needed: 0.0180000s
+LinSearch needed: 0.1780000s
+LinSearch: 1440 is in position 80
+BinSearch: 1440 is in position 80
+Done!
+
+What number are we searching for?
+860
+The size of the list is 500
+BinSearch needed: 0.0130000s
+LinSearch needed: 0.1960000s
+LinSearch: 860 is in position 51
+BinSearch: 860 is in position 51
+Done!
+
+What number are we searching for?
+5900
+The size of the list is 500
+BinSearch needed: 0.0140000s
+LinSearch needed: 0.0920000s
+LinSearch: 5900 is in position 296
+BinSearch: 5900 is in position 296
+Done!
+
+What number are we searching for?
+2080
+The size of the list is 500
+BinSearch needed: 0.0120000s
+LinSearch needed: 0.1670000s
+LinSearch: 2080 is in position 112
+BinSearch: 2080 is in position 112
+Done!

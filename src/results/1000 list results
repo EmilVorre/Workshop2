@@ -1,0 +1,89 @@
+What number are we searching for?
+1
+The size of the list is 1000
+BinSearch needed: 0.0140000s
+LinSearch needed: 0.4170000s
+LinSearch: 1 is in position 1
+BinSearch: 1 is in position 1
+Done!
+
+What number are we searching for?
+9803
+The size of the list is 1000
+BinSearch needed: 0.0130000s
+LinSearch needed: 0.0020000s
+LinSearch: 9803 is in position 1000
+BinSearch: 9803 is in position 1000
+Done!
+
+What number are we searching for?
+7
+The size of the list is 1000
+BinSearch needed: 0.0190000s
+LinSearch needed: 0.4130000s
+LinSearch: 7 is in position 4
+BinSearch: 7 is in position 4
+Done!
+
+What number are we searching for?
+899
+The size of the list is 1000
+BinSearch needed: 0.0200000s
+LinSearch needed: 0.2430000s
+LinSearch: 899 is in position 443
+BinSearch: 899 is in position 443
+Done!
+
+What number are we searching for?
+6971
+The size of the list is 1000
+BinSearch needed: 0.0130000s
+LinSearch needed: 0.0100000s
+LinSearch: 6971 is in position 978
+BinSearch: 6971 is in position 978
+Done!
+
+What number are we searching for?
+5863
+The size of the list is 1000
+BinSearch needed: 0.0200000s
+LinSearch needed: 0.0430000s
+LinSearch: 5863 is in position 914
+BinSearch: 5863 is in position 914
+Done!
+
+What number are we searching for?
+3799
+The size of the list is 1000
+BinSearch needed: 0.0200000s
+LinSearch needed: 0.0550000s
+LinSearch: 3799 is in position 882
+BinSearch: 3799 is in position 882
+Done!
+
+What number are we searching for?
+1395
+The size of the list is 1000
+BinSearch needed: 0.0170000s
+LinSearch needed: 0.1380000s
+LinSearch: 1395 is in position 681
+BinSearch: 1395 is in position 681
+Done!
+
+What number are we searching for?
+407
+The size of the list is 1000
+BinSearch needed: 0.0140000s
+LinSearch needed: 0.3350000s
+LinSearch: 407 is in position 204
+BinSearch: 407 is in position 204
+Done!
+
+What number are we searching for?
+615
+The size of the list is 1000
+BinSearch needed: 0.0150000s
+LinSearch needed: 0.2990000s
+LinSearch: 615 is in position 301
+BinSearch: 615 is in position 301
+Done!

@@ -1,0 +1,107 @@
+What number are we searching for?
+2
+The size of the list is 6000
+BinSearch needed: 0.0180000s
+LinSearch needed: 2.5100000s
+LinSearch: 2 is in position 1
+BinSearch: 2 is in position 1
+Done!
+
+What number are we searching for?
+9611
+The size of the list is 6000
+BinSearch needed: 0.0180000s
+LinSearch needed: 0.0020000s
+LinSearch: 9611 is in position 6000
+BinSearch: 9611 is in position 6000
+Done!
+
+What number are we searching for?
+8701
+The size of the list is 6000
+BinSearch needed: 0.0210000s
+LinSearch needed: 0.1380000s
+LinSearch: 8701 is in position 5681
+BinSearch: 8701 is in position 5681
+Done!
+
+What number are we searching for?
+8245
+The size of the list is 6000
+BinSearch needed: 0.0220000s
+LinSearch needed: 0.3170000s
+LinSearch: 8245 is in position 5243
+BinSearch: 8245 is in position 5243
+Done!
+
+What number are we searching for?
+7636
+The size of the list is 6000
+BinSearch needed: 0.0240000s
+LinSearch needed: 0.5630000s
+LinSearch: 7636 is in position 4636
+BinSearch: 7636 is in position 4636
+Done!
+
+What number are we searching for?
+6971
+The size of the list is 6000
+BinSearch needed: 0.0230000s
+LinSearch needed: 0.8570000s
+LinSearch: 6971 is in position 3972
+BinSearch: 6971 is in position 3972
+Done!
+
+What number are we searching for?
+6050
+The size of the list is 6000
+BinSearch needed: 0.0220000s
+LinSearch needed: 1.2300000s
+LinSearch: 6050 is in position 3051
+BinSearch: 6050 is in position 3051
+Done!
+
+What number are we searching for?
+5482
+The size of the list is 6000
+BinSearch needed: 0.0200000s
+LinSearch needed: 1.4640000s
+LinSearch: 5482 is in position 2483
+BinSearch: 5482 is in position 2483
+Done!
+
+What number are we searching for?
+3614
+The size of the list is 6000
+BinSearch needed: 0.0220000s
+LinSearch needed: 1.7420000s
+LinSearch: 3614 is in position 1796
+BinSearch: 3614 is in position 1796
+Done!
+
+What number are we searching for?
+2694
+The size of the list is 6000
+BinSearch needed: 0.0250000s
+LinSearch needed: 1.9480000s
+LinSearch: 2694 is in position 1338
+BinSearch: 2694 is in position 1338
+Done!
+
+What number are we searching for?
+1675
+The size of the list is 6000
+BinSearch needed: 0.0200000s
+LinSearch needed: 2.1590000s
+LinSearch: 1675 is in position 837
+BinSearch: 1675 is in position 837
+Done!
+
+What number are we searching for?
+999
+The size of the list is 6000
+BinSearch needed: 0.0240000s
+LinSearch needed: 2.2860000s
+LinSearch: 999 is in position 500
+BinSearch: 999 is in position 500
+Done!

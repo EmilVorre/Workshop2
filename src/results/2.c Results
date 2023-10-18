@@ -1,0 +1,35 @@
+What number are we searching for?
+7
+The size of the list is 9000
+BinSearch needed: 0.0280000s
+LinSearch needed: 3.9040000s
+LinSearch: 7 is in position 5
+BinSearch: 7 is in position 5
+Done!
+
+What number are we searching for?
+899
+The size of the list is 9000
+BinSearch needed: 0.0210000s
+LinSearch needed: 3.4990000s
+LinSearch: 899 is in position 896
+BinSearch: 899 is in position 896
+Done!
+
+What number are we searching for?
+3000
+The size of the list is 9000
+BinSearch needed: 0.0240000s
+LinSearch needed: 2.5970000s
+LinSearch: 3000 is in position 2990
+BinSearch: 3000 is in position 2990
+Done!
+
+What number are we searching for?
+8991
+The size of the list is 9000
+BinSearch needed: 0.0210000s
+LinSearch needed: 0.0150000s
+LinSearch: 8991 is in position 8974
+BinSearch: 8991 is in position 8974
+Done!
