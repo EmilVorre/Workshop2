@@ -1,3 +1,0 @@
-"R:\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Workshop2.dir/objects.a
-"R:\CLion 2023.2.1\bin\mingw\bin\ar.exe" qc CMakeFiles\Workshop2.dir/objects.a @CMakeFiles\Workshop2.dir\objects1.rsp
-"R:\CLion 2023.2.1\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\Workshop2.dir/objects.a -Wl,--no-whole-archive -o Workshop2.exe -Wl,--out-implib,libWorkshop2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Workshop2.dir\linkLibs.rsp
